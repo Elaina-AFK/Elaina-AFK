@@ -31,6 +31,6 @@ Anyway, I'm better now. I'm now learning Python, Javascript, HTML, CSS, And plan
 - Devlab 3
 ![Devlab3](https://github.com/Elaina-AFK/Elaina-AFK/blob/main/certificate.png)
 - HackerRank
-![pythonHKR](https://www.hackerrank.com/certificates/iframe/ac2dffb7a30c)
+![pythonHKR](https://github.com/Elaina-AFK/Elaina-AFK/blob/main/python_basic%20certificate.pdf)
 - 🧠 I'm currently learning React for more understanding.
 - ✨👀 But all my certificates is about python and I'm very interested in Data Visualization.
