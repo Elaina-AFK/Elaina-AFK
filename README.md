@@ -14,7 +14,7 @@ Anyway, I'm better now. I'm now learning Python, Javascript, HTML, CSS, And plan
 
 ### Conclusion 📕
 - Name: Pong-pol Pol-ard
-- BirthDay: 02/05/2001
+- BirthDate: 02/05/2001
 - Age: 21
 - Nationality: Thai
 - 📖 Education: equivalent of high school.
